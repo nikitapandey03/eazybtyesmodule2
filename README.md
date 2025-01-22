@@ -1,2 +1,2 @@
 # eazybtyesmodule2
-i develop a project .
+I created a Stock Market Dashboard using HTML, CSS, and JavaScript to provide a user-friendly platform for monitoring real-time stock market data. The dashboard features dynamic updates of stock prices, search and filter functionality, and interactive charts for visualizing market trends over various time frames. I also implemented a customizable watchlist, allowing users to track their favorite stocks easily. The project is fully responsive, ensuring it works seamlessly on all devices, and includes a dark mode for a visually comfortable experience in low-light settings. This project aims to simplify stock market tracking and make it accessible to all users.
